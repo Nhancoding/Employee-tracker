@@ -1,0 +1,1 @@
+// creat class that holds a bunch of custom methods that query the databse 
